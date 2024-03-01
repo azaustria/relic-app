@@ -1,2 +1,3 @@
-# relic-app
-Track how much you suck in your favorite video game! A personal playground of all things Flutter.
+# relic_app
+
+A new Flutter project.
